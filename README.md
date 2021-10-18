@@ -1,5 +1,5 @@
 # SCChallengeEmailID
-The first of the Space Cadets challenges for 2021 at SOTON
+The first of the Space Cadet challenges for 2021 at SOTON
 
 I have come from exclusivley programming in Python and have been learning Java for the past 2 weeks, because of this I chose to go one of the easier routes by using the JSoup library.
 
